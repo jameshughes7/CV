@@ -47,7 +47,7 @@ At both Collinson Tech and Zopa I collaborated with the developers so as to ensu
 
 ## Education
 
-###Makers Academy (Aug 2017 to present)
+**Makers Academy (Aug 2017 to present)**
 A 16-week intensive development bootcamp, emphasising:
 - A Curiosity and passion for code
 - Fast, independent learning
@@ -60,5 +60,5 @@ A 16-week intensive development bootcamp, emphasising:
 - RSpec
 
 
-###University of Cape Town(January 2000 to December 2003)
+**University of Cape Town(January 2000 to December 2003)**
 - Bachelor of Science majoring in Environmental Science and Social Anthropology
