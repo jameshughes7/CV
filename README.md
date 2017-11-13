@@ -1,6 +1,6 @@
 ## James Hughes
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/james-hughes) | [Blog](https://medium.com/@hugjimbo77)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/james-hughes-36073574/) | [Blog](https://medium.com/@hugjimbo77)
 
 I'm a QA engineer who has taken the plunge into the world of coding. The QA roles I've held stoked my curiosity and interest in what actually goes on under the coding hood. To realise the goal of learning all the skills necessary to achieve that, I have recently completed the 16 week intensive course at Makers Academy.
 
