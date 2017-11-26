@@ -1,25 +1,17 @@
 ## James Hughes
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/james-hughes-36073574/) | [Blog](https://medium.com/@hugjimbo77)
+I'm a Quality Assurance Engineer taking the plunge into the world of coding at Makers Academy. The QA roles I've held stoked my curiosity and interest in what actually goes on under the coding hood. As a result I am very excited to jump into this chapter with the goal of learning all the skills necessary to achieve that.
 
-I'm a QA engineer who has taken the plunge into the world of coding. The QA roles I've held stoked my curiosity and interest in what actually goes on under the coding hood. To realise the goal of learning all the skills necessary to achieve that, I have recently completed the 16 week intensive course at Makers Academy.
-
-Since 2015, I have forged a career as a QA, having taught myself to touch type, and have learnt the basics of the dark arts of coding. My goal is to unleash my inner coding ninja and in so doing releasing the creative and effective potential within me so that I can build cool and interesting stuff. My desire is to be building and supporting projects that I can be proud of and that will make a real difference to those around me.
-
-Project   | Description | Technologies |
-|---        |---         |---           |
-| [SkinSync](https://github.com/benjaminsunderland/SkinSync) | A web app that acts like a google engine for tattoos. It alllows tattoo enthusiasts to find an artist and parlour where they can get their perfect tattoo  | Rails, RSpec/Capybara |
-|[Tamagotchi](https://github.com/benjaminsunderland/Tamagotchi-)| Built the famous Tamagotchi app for the iPhone | Swift, XCode, SpriteKit|
-| [Bank](https://github.com/jameshughes7/bank_tech_test) | A bank program created on the command line | Ruby, RSpec |
+Since 2015, I have forged a career as a QA, have taught myself to touch type, and have learnt the basics of the dark arts of coding. My goal is to unleash my inner coding ninja and in so doing releasing the creative and effective potential within me so that I can build cool and interesting stuff. My desire is to be building and supporting web projects that I can be proud of and that will make a real difference to those around me.
 
 ## Skills
 
 #### Attention to detail
-As a QA at Collinson Tech and Zopa, I have demonstrated a keen eye for detail which has helped me to detect and prevent bugs and regression from affecting the applications. Such experience has helped me to hone this skill and has given me a great foundation for life as a developer. Together with the strong foundation I am building at Makers, this skill will only become sharper.
+As a QA at Collinson Tech and Zopa, I have demonstrated a keen eye for detail which has helped me to detect and prevent bugs and regression from affecting the applications. My QA experience has helped me to hone this skill and has given me a great foundation for life as a developer. Together with the strong foundation I am building at Makers, this skill will only become sharper.
 
 
 #### Strong desire for self improvement
-Since 2014, I made a decision to move into the world of programming. Through self learning I grasped the basics of HTML, CSS and SQL and within a year I had secured my first QA job. Being self motivated has been the foundation for the upward learning curve I've been on since my first IT job as a junior QA in 2015. Since then I've been driven to continue learning and joining Makers is helping me to accelerate this process.
+In 2014, I made a decision to move into the world of programming. Through self learning I grasped the basics of HTML, CSS and SQL and within a year I had secured my first QA job. Being self motivated has been the foundation for the upward learning curve I've been on since my first IT job as a junior QA in 2015. Since then I've been driven to continue learning and joining Makers is helping me to accelerate this process.
 
 
 #### Communication
@@ -64,9 +56,10 @@ A 16-week intensive development bootcamp, emphasising:
 - Test Driven development
 - Object Oriented Design
 - Agile
+- JavaScript
+- Jasmine
 - Ruby
 - RSpec
-- XP Values
 
 
 **University of Cape Town(January 2000 to December 2003)**
