@@ -1,17 +1,17 @@
 ## James Hughes
 
-I'm a Quality Assurance Engineer taking the plunge into the world of coding at Makers Academy. The QA roles I've held stoked my curiosity and interest in what actually goes on under the coding hood. As a result I am very excited to jump into this chapter with the goal of learning all the skills necessary to achieve that.
+I'm a Quality Assurance Engineer who has taken the plunge into the world of coding at Makers Academy. The QA roles I've held stoked my curiosity and interest in what actually goes on under the coding hood. As a result I am very excited to jump into this chapter with the goal of learning all the skills necessary to achieve that.
 
-Since 2015, I have forged a career as a QA, have taught myself to touch type, and have learnt the basics of the dark arts of coding. My goal is to unleash my inner coding ninja and in so doing releasing the creative and effective potential within me so that I can build cool and interesting stuff. My desire is to be building and supporting web projects that I can be proud of and that will make a real difference to those around me.
+Since 2015, I have forged a career as a QA, have taught myself to touch type, and have learnt the basics of the dark arts of coding. My goal is to unleash my inner coding ninja and in so doing releasing the creative and effective potential within me so that I can build cool and interesting stuff. My desire is to be building and supporting web and mobile projects that I can be proud of and that will make a real difference to those around me.
 
 ## Skills
 
 #### Attention to detail
-As a QA at Collinson Tech and Zopa, I have demonstrated a keen eye for detail which has helped me to detect and prevent bugs and regression from affecting the applications. My QA experience has helped me to hone this skill and has given me a great foundation for life as a developer. Together with the strong foundation I am building at Makers, this skill will only become sharper.
+As a QA at Collinson Tech and Zopa, I have demonstrated a keen eye for detail which has helped me to detect and prevent bugs and regression from affecting the applications. My QA experience has helped me to hone this skill and has given me a great foundation for life as a developer. Together with the strong foundation I have built at Makers, this skill has only become sharper.
 
 
 #### Strong desire for self improvement
-In 2014, I made a decision to move into the world of programming. Through self learning I grasped the basics of HTML, CSS and SQL and within a year I had secured my first QA job. Being self motivated has been the foundation for the upward learning curve I've been on since my first IT job as a junior QA in 2015. Since then I've been driven to continue learning and joining Makers is helping me to accelerate this process.
+In 2014, I made a decision to move into the world of programming. Through self learning I grasped the basics of HTML, CSS and SQL and within a year I had secured my first QA job. Being self motivated has been the foundation for the upward learning curve I've been on since my first IT job as a junior QA in 2015. Since then I've been driven to continue learning and completing the Makers Academy bootcamp has helped to accelerate this process.
 
 
 #### Communication
