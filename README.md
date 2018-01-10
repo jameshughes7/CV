@@ -1,8 +1,7 @@
-<h2 align="center">James Hughes</h2>
-<p align="center"></strong>Flat 1, 125 Trinity Road, Tooting, London, SW177SQ, Mobile: 07891719987hugjimbo77@gmail.com</strong></p><br>
+ <div style="text-align:center"><b><span style=" font-family:Georgia; font-size:1.5em;">James Hughes</span><b><br>Flat 1, 125 Trinity Road, Tooting, London, SW177SQ, Mobile: 07891719987<br>hugjimbo77@gmail.com<br></div><br>
 
 
-<p align="center">[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/james-hughes) | [Blog](https://medium.com/@hugjimbo77)</p>
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/james-hughes) | [Blog](https://medium.com/@hugjimbo77)
 
 I'm a former Quality Assurance Engineer who has taken the plunge into the world of coding. The QA roles I've held stoked my curiosity and interest in what actually goes on under the coding hood. Recently I have graduated from Makers Academy, a 16 week intensive coding bootcamp and I am now actively consolidating and stretching myself to become a proficient full stack developer.  
 
