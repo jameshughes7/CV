@@ -1,4 +1,6 @@
- <div style="text-align:center"><b><span style=" font-family:Georgia; font-size:1.5em;">James Hughes</span><b><br>Flat 1, 125 Trinity Road, Tooting, London, SW177SQ, Mobile: 07891719987<br>hugjimbo77@gmail.com<br></div><br>
+ <h2 style="text-align: center;" markdown="1">James Hughes</h3>
+
+ <p style="text-align: center;">Flat 1, 125 Trinity Road, Tooting, London, SW177SQ, Mobile: 07891719987, hugjimbo77@gmail.com<br></p>
 
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/james-hughes) | [Blog](https://medium.com/@hugjimbo77)
