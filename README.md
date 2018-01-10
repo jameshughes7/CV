@@ -1,18 +1,21 @@
-## James Hughes
+<div style="text-align:center"><b><span style=" font-family:Georgia; font-size:1.5em;">James Hughes</span><b><br>Flat 1, 125 Trinity Road, Tooting, London, SW177SQ, Mobile: 07891719987<br>hugjimbo77@gmail.com<br></div><br>
+
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/james-hughes) | [Blog](https://medium.com/@hugjimbo77)
 
-I'm a Quality Assurance Engineer who has taken the plunge into the world of coding at Makers Academy. The QA roles I've held stoked my curiosity and interest in what actually goes on under the coding hood. As a result I am very excited to jump into this chapter with the goal of learning all the skills necessary to achieve that.
+I'm a former Quality Assurance Engineer who has taken the plunge into the world of coding. The QA roles I've held stoked my curiosity and interest in what actually goes on under the coding hood. Recently I have graduated from Makers Academy, a 16 week intensive coding bootcamp and I am now actively consolidating and stretching myself to become a proficient full stack developer.  
 
 Since 2015, I have forged a career as a QA, have taught myself to touch type, and have learnt the basics of the dark arts of coding. My goal is to unleash my inner coding ninja and in so doing releasing the creative and effective potential within me so that I can build cool and interesting stuff. My desire is to be building and supporting web and mobile projects that I can be proud of and that will make a real difference to those around me.
+
 
 ## Projects
 
 Project   | Description | Technologies |
 |---        |---         |---           |
-| [SkinSync](https://github.com/benjaminsunderland/SkinSync) | A web app that acts like a google engine for tattoos. It alllows tattoo enthusiasts to find an artist and parlour where they can get their perfect tattoo  | Rails, RSpec/Capybara |
+| [SkinSync](https://github.com/benjaminsunderland/SkinSync) | A web app that acts like a google engine for tattoos. It allows tattoo enthusiasts to find an artist and parlour where they can get their perfect tattoo  | Rails, RSpec/Capybara |
 |[Tamagotchi](https://github.com/benjaminsunderland/Tamagotchi-)| Built the famous Tamagotchi app for the iPhone | Swift, XCode, SpriteKit|
 | [Bank](https://github.com/jameshughes7/bank_tech_test) | A bank program created on the command line | Ruby, RSpec |
+
 
 ## Skills
 
@@ -67,11 +70,15 @@ A 16-week intensive development bootcamp, emphasising:
 - Object Oriented Design
 - Agile
 - JavaScript
+- Node
 - Jasmine
 - Mocha
 - Chai
 - Ruby
+- Rails
 - RSpec
+- PostgreSQL
+- Mongo
 
 
 **University of Cape Town(January 2000 to December 2003)**
